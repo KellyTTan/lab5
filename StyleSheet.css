@@ -14,12 +14,16 @@ table {
 th {
     font-family: 'Bebas Neue', cursive;
     color: white;
+    text-align: center;
+    margin 5px auto;
+    padding: 10px;
 }
 
 td {
     font-family: 'Inconsolata', monospace;
     color: white;
-  
+    margin 5px auto;
+    padding: 10px;
 }
 
 .head {
