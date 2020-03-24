@@ -2,7 +2,7 @@
 
 body {
     width: 60%;
-    margin 40px auto;
+    margin: 40px auto;
     padding: 20px 50px;
     background-color: black;
 }
@@ -33,7 +33,7 @@ th {
     font-family: 'Bebas Neue', cursive;
     color: white;
     text-align: center;
-    margin 10px auto;
+    margin: 10px auto;
     padding: 10px;
     font-size: 24px;
 }
@@ -41,7 +41,7 @@ th {
 td {
     font-family: 'Inconsolata', monospace;
     color: white;
-    margin 10px auto;
+    margin: 10px auto;
     padding: 20px;
 }
 
