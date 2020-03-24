@@ -33,7 +33,7 @@ th {
     font-family: 'Bebas Neue', cursive;
     color: white;
     text-align: center;
-    margin 5px auto;
+    margin 10px auto;
     padding: 10px;
     font-size: 24px;
 }
@@ -41,8 +41,8 @@ th {
 td {
     font-family: 'Inconsolata', monospace;
     color: white;
-    margin 5px auto;
-    padding: 10px;
+    margin 10px auto;
+    padding: 20px;
 }
 
 table td {
