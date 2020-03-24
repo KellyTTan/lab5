@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Inconsolata&display=swap');
 
 body {
-    wdith: 60;
+    width: 60;
     margin 40px auto;
     padding: 50px;
     background-color: black;
-    
 }
 
 table {
