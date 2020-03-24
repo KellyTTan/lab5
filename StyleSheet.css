@@ -11,6 +11,10 @@ table {
     color: white;
 }
 
+tr {
+    color: white;
+}
+
 th {
     font-family: 'Bebas Neue', cursive;
     color: white;
