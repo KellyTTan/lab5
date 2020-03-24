@@ -21,6 +21,7 @@ th {
     text-align: center;
     margin 5px auto;
     padding: 10px;
+    font-size: 20px;
 }
 
 td {
@@ -36,5 +37,6 @@ tr:nth-child(even) {
 
 .head {
     font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
   
 }
