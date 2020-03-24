@@ -7,6 +7,16 @@ body {
     background-color: black;
 }
 
+h1 {
+    color: white;
+    font-family: 'Inconsolata', monospace;
+}
+
+h3 {
+    font-family: 'Inconsolata', monospace;
+    color: white;
+}
+
 table {
     color: white;
 }
@@ -36,7 +46,7 @@ table td {
 }
 
 tr:nth-child(even) {
-     background-color: rgb(50, 50, 50);
+     background-color: rgb(15, 15, 15);
 }
 
 .head {
