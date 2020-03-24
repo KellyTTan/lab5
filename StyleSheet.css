@@ -1,1 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Inconsolata&display=swap');
 
+
+th {
+    font-family: 'Bebas Neue', cursive;
+}
+
+td {
+    font-family: 'Inconsolata', monospace;
+  
+}
+
+.head {
+    font-family: 'Bebas Neue', cursive;
+  
+}
